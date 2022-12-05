@@ -1,6 +1,6 @@
 # RIDGES Herbology 9.0 - Wikibase
 
-https://ridges-herb-9.wikibase.cloud/wiki/Main_Page
+https://ridges-herb.wikibase.cloud/wiki/Main_Page
 
 ## RIDGES project
 The **RIDGES** project (**R**egister **i**n **D**iachronic **G**erman **S**cience) is an investigation into the development of the German scientific language in the early modern and modern periods, ranging from the mid 15th to the 20th century.

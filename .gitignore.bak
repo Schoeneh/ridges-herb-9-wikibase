@@ -1,8 +1,5 @@
 /data/corpus-data_raw/annis
 
-# Notepad++
-.bak
-
 # https://raw.githubusercontent.com/github/gitignore/main/Global/macOS.gitignore
 # General
 .DS_Store
